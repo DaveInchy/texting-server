@@ -1,0 +1,21 @@
+{
+  "name": "cloudworks-server",
+  "version": "0.1.0",
+  "description": "graphql middleware for database integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'urmumgay'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.io/DaveInchy/cloudworks-server"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Dave Inchy on Github",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^2.11.2"
+  }
+}
